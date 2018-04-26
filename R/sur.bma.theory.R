@@ -238,7 +238,7 @@ sur.bma.theory.results.init <- function(D,odens)
     ##-------- Information to be returned ----------
     results <- NULL
     results$beta <- list()
-    results$beta.bar <- list()
+p    results$beta.bar <- list()
     results$M <- list()
     results$M.bar <- list()
     results$gamma <- list()
@@ -303,7 +303,6 @@ sur.bma.theory <- function(Y, U, s=1e3, b = round(s/10),
       D$w.t[[r]] <- list()
       for(t in 1:n.theory)
       {
-        print(c(r,t))
         w.theory <- which(Theories[[r]] == t)
         D$w.t[[r]][[t]] <- w.theory
         if(t != D$which.intercept[r] )
