@@ -238,7 +238,7 @@ sur.bma.theory.results.init <- function(D,odens)
     ##-------- Information to be returned ----------
     results <- NULL
     results$beta <- list()
-p    results$beta.bar <- list()
+    results$beta.bar <- list()
     results$M <- list()
     results$M.bar <- list()
     results$gamma <- list()
