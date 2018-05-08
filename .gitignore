@@ -31,4 +31,4 @@ src/*.so
 # Latex output files
 *.aux
 *.log
-*.pdf
+
