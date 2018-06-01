@@ -484,12 +484,22 @@ ivbma.results.init <- function(D,odens, run.diagnostics)
   return(results)
 }
 
-ivbma <- function(Y,X,Z,W,s=1e3,b = round(s/10),
-                  full = FALSE,odens = min(c(5e3,s-b)),
-                  print.every = round(s/10),
+ivbma <- function(Y,X,Z,W,s=1e3,b = NULL,
+                  full = FALSE,odens = NULL,
+                  print.every = NULL,
                   run.diagnostics = FALSE)
   {
+      if(is.null(b)){
+          b = round(s/10)
+      }
 
+      if(is.null(odens)){
+          odens = min(c(5e3,s-b))
+      }
+      if(is.null(print.every)){
+          print.every = round(s/10)
+      }
+          
     ##----------- Fill Data ---------
     D <- NULL
     D$Y <- Y
