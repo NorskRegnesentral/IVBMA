@@ -1,0 +1,208 @@
+[[1]]
+[[1]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lcentralization,lwarfare,larea,ldepend15,lpop_growth,ltrade,lgini_gross,ldebt,linflation,ldemocracy,lpol_comp,lplurality,lpol_rights"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,larea,lgini_gross,lpol_rights"                                                                                     
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,larea,lgini_gross,ldebt,lfdi_liab,lpol_rights"                                                                     
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,larea,lpop_growth,lgini_gross,ldebt,lpol_rights"                                                                   
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,larea,ldepend15,lurban,lpop_growth,ltrade,lgini_gross,linflation,ldemocracy,lpol_comp"                             
+
+[[1]]$prob
+[1] 0.1111111 0.1111111 0.1111111 0.1111111 0.1111111
+
+
+[[2]]
+[[2]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51"                             
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lpop_growth"                 
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,ldepend15,lurban,lpop_growth"
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,larea"              
+
+[[2]]$prob
+[1] 0.6666667 0.1111111 0.1111111 0.1111111
+
+
+[[3]]
+[[3]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,ldepend15,linflation,ldemocracy,lpol_comp,lpresidential,lplurality"            
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,ldepend15,ldemocracy,lpol_comp,lpresidential,lplurality"                       
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,ldepend15,lpop_growth,linflation,ldemocracy,lpol_comp,lpresidential,lplurality"
+
+[[3]]$prob
+[1] 0.7777778 0.1111111 0.1111111
+
+
+[[4]]
+[[4]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,lpop_growth,ltrade"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,ltrade"            
+
+[[4]]$prob
+[1] 0.7777778 0.2222222
+
+
+[[5]]
+[[5]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,larea,lpopulation,lurban,lpop_growth,ltrade,lgini_gross,lfdi_liab"                                                                  
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lcentralization,lwarfare,larea,lpopulation,ldepend64,lpop_growth,ltrade,lgini_gross,lfdi_liab,lpol_comp,lpresidential,lplurality,lpol_rights"
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,lpopulation,ldepend64,lpop_growth,ltrade,lgini_gross,lfdi_liab,lpol_comp,lpresidential,lplurality,lpol_rights"                       
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare,larea,lpopulation,ldepend64,lpop_growth,lgini_gross,lfdi_liab,lpol_comp,lpresidential,lplurality,lpol_rights"                     
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare,larea,lpopulation,ldepend64,lpop_growth,ltrade,lgini_gross,lfdi_liab,ldemocracy,lpol_comp,lpresidential,lplurality"               
+
+[[5]]$prob
+[1] 0.1111111 0.1111111 0.1111111 0.1111111 0.1111111
+
+
+[[6]]
+[[6]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,ldepend64,lpop_growth"
+
+[[6]]$prob
+[1] 1
+
+
+[[7]]
+[[7]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lpopulation,lurban,lpop_growth,lpresidential,lplurality,lpol_rights"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lpopulation,lurban,lpresidential,lplurality,lpol_rights"            
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lpopulation,lurban,lpresidential,lplurality"                        
+
+[[7]]$prob
+[1] 0.5555556 0.3333333 0.1111111
+
+
+[[8]]
+[[8]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1"         
+
+[[8]]$prob
+[1] 0.6666667 0.3333333
+
+
+[[9]]
+[[9]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lcentralization,lpopulation,ldepend64,ltrade,lpol_rights"                    
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,lpopulation,lpop_growth,ltrade,lpol_comp,lplurality,lpol_rights"    
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lcentralization,lpopulation,ldepend64,ltrade"                                
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare,ldepend64,ltrade"                                                 
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare,lpopulation,lpop_growth,ltrade,lpol_comp,lpresidential,lplurality"
+
+[[9]]$prob
+[1] 0.2222222 0.1111111 0.1111111 0.1111111 0.1111111
+
+
+[[10]]
+[[10]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,ldepend64,lurban,lpop_growth,lgini_gross,lpol_rights"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lurban,lpop_growth,lgini_gross,lpol_rights"          
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lurban,lpop_growth,lgini_gross"                      
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,ldepend64,lpop_growth,ltrade,lgini_gross,lpol_rights"
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,ldepend64,lurban,lpop_growth,lgini_gross"            
+
+[[10]]$prob
+[1] 0.3333333 0.2222222 0.1111111 0.1111111 0.1111111
+
+
+[[11]]
+[[11]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,larea,lpopulation,ldepend15,ldepend64,lpop_growth,lgini_gross,lfdi_liab,linflation,ldemocracy,lpresidential,lplurality,lpol_rights"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,lpopulation,ldepend64,lpop_growth,ltrade,lgini_gross,ldebt,lfdi_liab,linflation,ldemocracy,lpresidential,lplurality,lpol_rights"    
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,lpopulation,ldepend15,lpop_growth,ltrade,lgini_gross,lfdi_liab,linflation,ldemocracy,lpresidential,lplurality,lpol_rights"          
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,lpopulation,ldepend15,lpop_growth,ltrade,lgini_gross,ldebt,lfdi_liab,linflation,ldemocracy,lpresidential,lplurality,lpol_rights"    
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,lpopulation,ldepend15,ldepend64,lgini_gross,ldebt,lfdi_liab,lpol_rights"                                                            
+
+[[11]]$prob
+[1] 0.1111111 0.1111111 0.1111111 0.1111111 0.1111111
+
+
+[[12]]
+[[12]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,larea,ldepend64,ltrade,lgini_gross,ldebt,lfdi_liab"                      
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,larea,ldepend64,ldebt,lfdi_liab,lpol_rights"                             
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,larea,ldepend64,ldebt,lfdi_liab,lpol_rights"                    
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,larea,ldepend64,ldebt,lfdi_liab,lpol_comp,lplurality"           
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lwarfare,larea,ldepend64,ldebt,lfdi_liab,linflation,lpol_comp,lplurality"
+
+[[12]]$prob
+[1] 0.2222222 0.1111111 0.1111111 0.1111111 0.1111111
+
+
+[[13]]
+[[13]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare,lpop_growth,ltrade,linflation,ldemocracy,lpol_comp,lpresidential,lplurality,lpol_rights"                               
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lwarfare,larea,lpop_growth,ltrade,linflation,ldemocracy,lpol_comp,lplurality,lpol_rights"                                       
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,ldepend64,lurban,lpop_growth,ltrade,linflation,ldemocracy,lpol_comp,lplurality,lpol_rights"                     
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,lpopulation,ldepend64,lurban,lpop_growth,linflation,ldemocracy,lpol_comp,lpresidential,lplurality,lpol_rights"  
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,lwarfare,lurban,lpop_growth,ltrade,lgini_gross,ldebt,linflation,ldemocracy,lpresidential,lplurality,lpol_rights"
+
+[[13]]$prob
+[1] 0.1111111 0.1111111 0.1111111 0.1111111 0.1111111
+
+
+[[14]]
+[[14]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,larea,lpopulation,lurban,lpol_rights"            
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,larea,lpopulation,lurban,lpop_growth,lpol_rights"
+
+[[14]]$prob
+[1] 0.7777778 0.2222222
+
+
+[[15]]
+[[15]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,ldepend15,ldepend64"            
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,lwarfare,ldepend15,ldepend64"   
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,ldepend15,ldepend64,lpop_growth"
+
+[[15]]$prob
+[1] 0.5555556 0.3333333 0.1111111
+
+
+[[16]]
+[[16]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lcentralization,lpopulation,ldepend15,lurban"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,lcentralization,lpopulation,ldepend15,lurban"  
+
+[[16]]$prob
+[1] 0.8888889 0.1111111
+
+
+[[17]]
+[[17]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lgini_gross"
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1"            
+
+[[17]]$prob
+[1] 0.7777778 0.2222222
+
+
+[[18]]
+[[18]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,lpol_rights"                      
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,linflation,ldemocracy,lpol_rights"
+
+[[18]]$prob
+[1] 0.7777778 0.2222222
+
+
+[[19]]
+[[19]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,ldepend15"            
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,larea,ldepend15,lpop_growth"
+
+[[19]]$prob
+[1] 0.7777778 0.2222222
+
+
+[[20]]
+[[20]]$models
+[1] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,centralization,area,depend15,depend64,urban,pop_growth,trade"                                       
+[2] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,centralization,area,depend15,depend64,urban,pop_growth,trade,pol_rights"                            
+[3] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,centralization,depend64,urban,pop_growth,trade,pol_rights"                                        
+[4] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,centralization,depend15,depend64,pop_growth,trade,presidential,pol_rights"                        
+[5] "per03,per04,per05,per06,per07,per08,cc2,cc3,cc4,cc5,cc6,cc7,cc8,cc9,cc10,cc11,cc12,cc13,cc14,cc15,cc16,cc17,cc18,cc19,cc20,cc21,cc22,cc23,cc24,cc25,cc26,cc27,cc28,cc29,cc30,cc31,cc32,cc33,cc34,cc35,cc36,cc37,cc38,cc39,cc40,cc41,cc42,cc43,cc44,cc45,cc46,cc47,cc48,cc49,cc50,cc51,1,centralization,depend15,depend64,pop_growth,trade,debt,inflation,pol_comp,presidential,pol_rights"
+
+[[20]]$prob
+[1] 0.1111111 0.1111111 0.1111111 0.1111111 0.1111111
+
+
