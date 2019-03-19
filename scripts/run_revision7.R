@@ -84,8 +84,7 @@ helper <- function(j)
                  which.intercept = which_intercept)
 }
 
-for(j in 1:length(nms)){
-    helper(j)
-}
+l = mclapply(27:length(nms), "helper", mc.cores = 10, mc.silent = FALSE)
 
 quit(save = "no")
+
