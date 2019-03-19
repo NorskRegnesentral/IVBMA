@@ -7,7 +7,8 @@ library(parallel)
 setwd("~/pkg/IVBMA/scripts/")
 
 revision_number = 3
-s <- 1e1
+s <- 1e5
+system("export OPENBLAS_NUM_THREADS=1")
 
 ##------ Paste Here -----------
 nms <- c("R2_FiveYrGG7",

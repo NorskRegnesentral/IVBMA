@@ -41,7 +41,7 @@ helper <- function(j)
   if(!file.exists(out.loc)) dir.create(out.loc)
   run.scenario(nms[j],
                s = s,
-               print.every = ceiling(s/1e2),
+               print.every = 1,##ceiling(s/1e2),
                out.loc = out.loc,
                Theories.prob.fix = Theories_prob,
                Theories.fix = Theories,
