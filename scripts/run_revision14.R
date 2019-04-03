@@ -7,7 +7,7 @@ library(parallel)
 setwd("~/pkg/IVBMA/scripts/")
 
 revision_number = 14
-s <- 1e5
+s <- 1e2
 
 ##------ Paste Here -----------
 nms <- c("R9_FiveYrGG7_NN4")
@@ -25,7 +25,7 @@ helper <- function(j)
     w_Y = 4
     w_X <- c(5:23)
     w_Z <- c(24:42)
-    w_W <- c(51:55,45:50,52:p)
+    w_W <- c(51:55,45:50,57:p)
 
     p.W = length(w_W) + 1
     p.X = length(w_X)
