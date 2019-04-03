@@ -8,7 +8,6 @@ setwd("~/pkg/IVBMA/scripts/")
 
 revision_number = 3
 s <- 1e5
-system("export OPENBLAS_NUM_THREADS=1")
 
 ##------ Paste Here -----------
 nms <- c("R2_FiveYrGG7",
@@ -25,7 +24,7 @@ w_X <- c(5:23)
 w_Z <- c(24:42)
 w_W <- c(45:50,52:p)
 
-p.W = length(w_W)
+p.W = length(w_W) + 1
 p.X = length(w_X)
 
 pi.M <- c(rep(1, p.W), rep(0.5, p.X))
@@ -53,10 +52,8 @@ helper <- function(j)
                which.intercept = which_intercept)
 }
 
-for(j in 1:length(nms)){
-    helper(j)
-}
-    
+l = mclapply(1:length(nms), "helper", mc.cores = length(nms), mc.silent = FALSE)
+
 quit(save = "no")
                
 

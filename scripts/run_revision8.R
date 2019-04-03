@@ -30,7 +30,7 @@ helper <- function(j)
     w_Z <- c(24:42)
     w_W <- c(45:50,52:p)
 
-    p.W = length(w_W)
+    p.W = length(w_W) + 1
     p.X = length(w_X)
     
     pi.M <- c(rep(1, p.W), rep(0.5, p.X))

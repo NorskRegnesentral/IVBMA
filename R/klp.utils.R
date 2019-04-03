@@ -91,14 +91,22 @@ scenario.setup <- function(nm,
     {
       pi.M[[j]] <- c(rep(1, p.W), rep(0.5, p.X))
     }else{
-      pi.M[[j]] <- pi.M.fix
+        if(is.list(pi.M.fix)){
+            pi.M[[j]] = pi.M.fix[[j]]
+        }else{
+            pi.M[[j]] = pi.M.fix
+        }
     }
 
     if(is.null(Theories.fix))
     {
       Theories[[j]] <- c(rep(1,6),rep(2,p.W - 7),3,4,5,6,6,7,8,8,8,8,9,10,11,12,12,12,13,13,13,13,14)
     }else{
-      Theories[[j]] <- Theories.fix
+        if(is.list(Theories.fix)){
+            Theories[[j]] <- Theories.fix[[j]]
+        }else{
+            Theories[[j]] = Theories.fix
+        }
     }
     
     m <- max(Theories[[j]])
@@ -107,11 +115,15 @@ scenario.setup <- function(nm,
     {
       Theories.prob[[j]] <- c(rep(1,3), rep(0.5, m - 3))
     }else{
-      Theories.prob[[j]] <- Theories.prob.fix
+        if(is.list(Theories.prob.fix)){
+            Theories.prob[[j]] <- Theories.prob.fix[[j]]
+        }else{
+            Theories.prob[[j]] = Theories.prob.fix
+        }
     }
     if(!is.null(robustness.fix.theory))
     {
-      Theories.prob[[j]][robustness.fix.theory] <- robustness.fix.prob
+        Theories.prob[[j]][robustness.fix.theory] <- robustness.fix.prob
     }
   }
   ##-----------------------------------

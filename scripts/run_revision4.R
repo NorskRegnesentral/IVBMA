@@ -7,7 +7,7 @@ library(parallel)
 setwd("~/pkg/IVBMA/scripts/")
 
 revision_number = 4
-s <- 1e1
+s <- 1e5
 
 ##------ Paste Here -----------
 nms <- c("FiveYrGG7",
@@ -24,7 +24,7 @@ w_X <- c(5:23)
 w_Z <- c(24:42)
 w_W <- c(45:50,52:p)
 
-p.W = length(w_W)
+p.W = length(w_W) + 1
 p.X = length(w_X)
 
 pi.M <- c(rep(1, p.W), rep(0.5, p.X))
@@ -52,10 +52,8 @@ helper <- function(j)
                which.intercept = which_intercept)
 }
 
-for(j in 1:length(nms)){
-    helper(j)
-}
-    
+l = mclapply(1:length(nms), "helper", mc.cores = length(nms), mc.silent = FALSE)
+
 quit(save = "no")
                
 
