@@ -7,7 +7,7 @@ library(parallel)
 setwd("~/pkg/IVBMA/scripts/")
 
 revision_number = 19
-s <- 1e2
+s <- 1e5
 
 ##------ Paste Here -----------
 nms <- c("R10_FiveYrCG7_NN4")
